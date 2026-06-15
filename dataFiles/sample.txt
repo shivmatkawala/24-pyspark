@@ -1,3 +1,4 @@
+ID,Name,Email,Age,City,Department,Salary,JoiningDate,IsActive
 1,Alice Johnson,alice.johnson@example.com,29,New York,Engineering,92000,2021-03-15,true
 2,Bob Smith,bob.smith@example.com,34,San Francisco,Marketing,78000,2019-07-22,true
 3,Carol White,carol.white@example.com,41,Chicago,Finance,105000,2017-01-10,true
